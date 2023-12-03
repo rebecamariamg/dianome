@@ -8,6 +8,7 @@ O processo de instalação deve ser feito da seguinte forma:  <p>
 # Clonamos o repositorio
 git clone https://github.com/rebecamariamg/dianome.git
 ```
+Obs: Se estiver usando o windows, verificar se o GIT foi instalado sem a conversão de formato de LF para CRLF, pois pode dar problema na hora de fazer o docker-compose. Se tiver com problemas, basta converter o arquivo docker-entrypoint.sh para usar LF ao invés de CRLF usando o notepad++.
 <br>
 
 ```shell
