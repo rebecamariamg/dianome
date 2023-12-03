@@ -1,0 +1,1 @@
+docker run --name mysql-pacote -p 3306:3306 -e MYSQL_ROOT_PASSWORD=dianome -d mysql:latest
