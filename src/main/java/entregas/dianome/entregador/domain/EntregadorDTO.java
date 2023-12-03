@@ -17,7 +17,7 @@ public record EntregadorDTO(
         Entregador entregador = new Entregador();
         entregador.setNome(nome);
         entregador.setCpf(cpf);
-        entregador.setCpf(cpf);
+        entregador.setContato(contato);
         entregador.setCapacidadeDoVeiculoEmKg(capacidadeDoVeiculoEmKg);
         return entregador;
     }

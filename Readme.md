@@ -2,7 +2,13 @@
 
 Para rodar buildar e rodar a aplicação, é necessário ter instalado na máquina: Docker e java (versão 17+) <p>
 
-O process de instalação deve ser feito da seguinte forma:  <p>
+O processo de instalação deve ser feito da seguinte forma:  <p>
+
+```shell
+# Clonamos o repositorio
+git clone https://github.com/rebecamariamg/dianome.git
+```
+<br>
 
 ```shell
 # Buildar o artefato java

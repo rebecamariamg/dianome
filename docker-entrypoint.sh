@@ -2,7 +2,7 @@
 
 # Wait for MySQL service to be ready
 echo "Waiting for MySQL..."
-sleep 52
+sleep 50
 
 # MySQL should be ready
 echo "MySQL is up..."
